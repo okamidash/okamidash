@@ -1,16 +1,39 @@
-### Hi there 👋
+### Okami Dash (She/Her)
 
-<!--
-**okamidash/okamidash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm okami dash. I'm a Software Tester/Sysadmin/Developer. Some know me as Eve. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I currently run a number of sites and services on kubernetes.
+
+---
+
+### Websites
+
+I run several websites and  other services.
+
+[okami.dev](https://okami.dev) | [oxide.one](https://oxide.one) | [x.likes.yiff.xyz](https://x.likes.yiff.xyz)
+
+### Skills
+
+- Ansible
+
+- Python
+
+- Kubernetes
+
+- (Learning) Go
+
+- Software Testing
+
+- Networking
+
+---
+
+### Contact Me
+
+okami <AT> doubledash.org
+
+
