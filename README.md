@@ -1,5 +1,7 @@
 ### Okami Dash (She/Her)
 
+Founder of [oxide.one](https://github.com/oxide-one)
+
 ---
 
 I'm okami dash. I'm a Software Tester/Sysadmin/Developer. Some know me as Eve. 
