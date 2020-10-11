@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey, I'm okami [狼] (she/her)<br/> </h2>
 <p align="left">
-<img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=okamidash&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<img width="495" height="165" src="https://github-readme-stats.vercel.app/api?username=okamidash&show_icons=true&line_height=20&title_color=3a6181&icon_color=1b93c9&show_owner=true"/>
 <p align="left">
 <a href="https://github.com/okamidash/"><img src="https://img.shields.io/github/followers/okamidash?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
