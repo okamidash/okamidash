@@ -20,7 +20,7 @@ I currently run a number of sites and services on kubernetes.
 
 I run several websites and  other services.
 
-[okami.dev](https://okami.dev) | [oxide.one](https://oxide.one) | [x.likes.yiff.xyz](https://x.likes.yiff.xyz)
+[okami.dev](https://okami.dev) | [(dead atm :p) oxide.one](https://oxide.one) | [(also dead atm) x.likes.yiff.xyz](https://x.likes.yiff.xyz)
 
 ### Skills
 
